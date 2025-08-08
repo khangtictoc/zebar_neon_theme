@@ -5,9 +5,9 @@
 @import "https://www.nerdfonts.com/assets/css/webfont.css";
 
 i {
-  color: rgb(168, 54, 88 / 100%);
+  color: rgb(168 54 88 / 100%);
   margin-right: 7px;
-  text-shadow: 0 0 10px rgb(168, 54, 88 / 80%);
+  text-shadow: 0 0 10px rgb(168 54 88 / 80%);
 }
 
 body {
@@ -31,10 +31,10 @@ body,
 }
 
 #root {
-  border-bottom: 1px solid rgb(168, 54, 88 / 40%);
+  border-bottom: 1px solid rgb(168 54 88 / 40%);
   background-color: rgba(0, 0, 0, 0.3);
   backdrop-filter: blur(16px);
-  box-shadow: 0 0 20px rgb(168, 54, 88 / 20%);
+  box-shadow: 0 0 20px rgb(168 54 88 / 20%);
 }
 
 .app {
@@ -57,12 +57,12 @@ body,
   background: rgb(20 20 30 / 80%);
   padding: 4px 12px;
   border-radius: 4px;
-  box-shadow: 0 0 15px rgb(168, 54, 88 / 30%);
+  box-shadow: 0 0 15px rgb(168 54 88 / 30%);
   font-weight: 500;
   letter-spacing: 0.3px;
   color: rgb(255 255 255 / 100%);
-  text-shadow: 0 0 10px rgb(168, 54, 88 / 80%);
-  border: 1px solid rgb(168, 54, 88 / 30%);
+  text-shadow: 0 0 10px rgb(168 54 88 / 80%);
+  border: 1px solid rgb(168 54 88 / 30%);
 }
 
 .center .date {
@@ -72,13 +72,13 @@ body,
 
 .center .separator {
   margin: 0 8px;
-  color: rgb(168, 54, 88 / 60%);
+  color: rgb(168 54 88 / 60%);
   font-weight: bold;
 }
 
 .center .process {
   font-weight: 400;
-  color: rgb(168, 54, 88 / 90%);
+  color: rgb(168 54 88 / 90%);
   text-transform: capitalize;
   font-size: 0.95em;
 }
@@ -111,24 +111,24 @@ body,
   margin-right: 4px;
   padding: 4px 8px;
   color: rgb(255 255 255 / 100%);
-  border: 1px solid rgb(168, 54, 88 / 30%);
+  border: 1px solid rgb(168 54 88 / 30%);
   border-radius: 4px;
   cursor: pointer;
   transition: all 0.2s ease;
-  box-shadow: 0 0 10px rgb(168, 54, 88 / 20%);
+  box-shadow: 0 0 10px rgb(168 54 88 / 20%);
 
   &.displayed {
     background: rgb(20 20 30 / 50%);
-    box-shadow: 0 0 15px rgb(168, 54, 88 / 30%);
+    box-shadow: 0 0 15px rgb(168 54 88 / 30%);
   }
 
   &.focused,
   &:hover {
-    background: rgb(168, 54, 88 / 40%);
+    background: rgb(168 54 88 / 40%);
     transform: translateY(-1px);
-    text-shadow: 0 0 10px rgb(168, 54, 88 / 80%);
-    box-shadow: 0 0 20px rgb(168, 54, 88 / 40%);
-    border: 1px solid rgb(168, 54, 88 / 60%);
+    text-shadow: 0 0 10px rgb(168 54 88 / 80%);
+    box-shadow: 0 0 20px rgb(168 54 88 / 40%);
+    border: 1px solid rgb(168 54 88 / 60%);
   }
 }
 
@@ -140,17 +140,17 @@ body,
   border-radius: 4px;
   line-height: 1;
   padding: 4px 8px;
-  border: 1px solid rgb(168, 54, 88 / 30%);
+  border: 1px solid rgb(168 54 88 / 30%);
   cursor: pointer;
   transition: all 0.2s ease;
-  box-shadow: 0 0 10px rgb(168, 54, 88 / 20%);
+  box-shadow: 0 0 10px rgb(168 54 88 / 20%);
 
   &:hover {
-    background: rgb(168, 54, 88 / 40%);
+    background: rgb(168 54 88 / 40%);
     transform: translateY(-1px);
-    text-shadow: 0 0 10px rgb(168, 54, 88 / 80%);
-    box-shadow: 0 0 20px rgb(168, 54, 88 / 40%);
-    border: 1px solid rgb(168, 54, 88 / 60%);
+    text-shadow: 0 0 10px rgb(168 54 88 / 80%);
+    box-shadow: 0 0 20px rgb(168 54 88 / 40%);
+    border: 1px solid rgb(168 54 88 / 60%);
   }
 }
 
@@ -159,8 +159,8 @@ body,
 }
 
 .cpu .high-usage {
-  color: rgb(168, 54, 88 / 100%);
-  text-shadow: 0 0 10px rgb(168, 54, 88 / 80%);
+  color: rgb(168 54 88 / 100%);
+  text-shadow: 0 0 10px rgb(168 54 88 / 80%);
 }
 
 .battery {
@@ -191,8 +191,8 @@ body,
   background: rgb(20 20 30 / 80%);
   padding: 4px 12px;
   border-radius: 4px;
-  box-shadow: 0 0 15px rgb(168, 54, 88 / 30%);
-  border: 1px solid rgb(168, 54, 88 / 30%);
+  box-shadow: 0 0 15px rgb(168 54 88 / 30%);
+  border: 1px solid rgb(168 54 88 / 30%);
 }
 
 .network {
@@ -206,20 +206,20 @@ body,
   gap: 4px;
   font-size: 0.85em;
   margin-left: 4px;
-  text-shadow: 0 0 10px rgb(168, 54, 88 / 80%);
+  text-shadow: 0 0 10px rgb(168 54 88 / 80%);
 }
 
 .network .download {
-  color: rgb(168, 54, 88 / 100%);
+  color: rgb(168 54 88 / 100%);
 }
 
 .network .upload {
-  color: rgb(168, 54, 88 / 100%);
+  color: rgb(168 54 88 / 100%);
 }
 
 .audio .muted {
-  color: rgb(203, 129, 81 / 100%);
-  text-shadow: 0 0 10px rgb(203, 129, 81 / 80%);
+  color: rgb(203 129 81 / 100%);
+  text-shadow: 0 0 10px rgb(203 129 81 / 80%);
 }
 
 .charging {
@@ -234,23 +234,23 @@ body,
 }
 
 .low-battery {
-  color: rgb(203, 129, 81 / 100%) !important;
-  text-shadow: 0 0 10px rgb(203, 129, 81 / 80%) !important;
+  color: rgb(203 129 81 / 100%) !important;
+  text-shadow: 0 0 10px rgb(203 129 81 / 80%) !important;
 }
 
 .full-battery {
-  color: rgb(191, 60, 100 / 100%) !important;
-  text-shadow: 0 0 10px rgb(191, 60, 100 / 80%) !important;
+  color: rgb(201 79 102 / 100%) !important;
+  text-shadow: 0 0 10px rgb(201 79 102 / 80%) !important;
 }
 
 @keyframes pulse-charging {
   0%,
   100% {
-    color: rgb(191, 60, 100 / 100%);
-    text-shadow: 0 0 10px rgb(191, 60, 100 / 80%);
+    color: rgb(201 79 102 / 100%);
+    text-shadow: 0 0 10px rgb(201 79 102 / 80%);
   }
   50% {
-    color: rgb(191, 60, 100 / 60%);
-    text-shadow: 0 0 15px rgb(191, 60, 100 / 90%);
+    color: rgb(201 79 102 / 60%);
+    text-shadow: 0 0 15px rgb(201 79 102 / 90%);
   }
 }
