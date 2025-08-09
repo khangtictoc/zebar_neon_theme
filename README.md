@@ -1,5 +1,10 @@
 # Zebar Neon Theme
 
+Forked from: https://github.com/echosonusharma/zebar_neon_theme.git
+
+> As not to perform any changes on original repo. I create this repo separately for personal use.
+
+
 A vibrant neon-themed configuration for [Zebar](https://github.com/glzr-io/zebar).
 
 > [!NOTE]  
